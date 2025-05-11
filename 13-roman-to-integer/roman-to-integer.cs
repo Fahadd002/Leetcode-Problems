@@ -1,5 +1,4 @@
 public class Solution {
-    //Fahad
     public int RomanToInt(string s) {
         Dictionary<char, int> romanMap = new Dictionary<char, int> {
             {'I', 1},
