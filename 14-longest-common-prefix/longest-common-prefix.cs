@@ -12,3 +12,7 @@ public class Solution {
         return strs[0];
     }
 }
+//string[] strs = { "apple", "apricot", "ape" };
+//strs[0][2] = 'p' Third character of "apple"
+//strs[1][2] = 'r' Third character of "apricot"
+//strs[2][2] = 'e' Third character of "ape"
